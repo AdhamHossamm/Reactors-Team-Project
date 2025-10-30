@@ -9,14 +9,16 @@ Your REACTORS e-commerce platform is now running on DigitalOcean!
 ## 🌐 Access URLs
 
 ### Frontend (Next.js)
-- **URL**: http://167.172.191.158:3000
+- **Primary URL**: http://reactors.duckdns.org
+- **Direct IP**: http://167.172.191.158:3000
 - **Status**: ✅ Running
 - **Framework**: Next.js 15 + React 19
 
 ### Backend API (Django)
-- **URL**: http://167.172.191.158:8000
+- **Direct IP**: http://167.172.191.158:8000
 - **API Root**: http://167.172.191.158:8000/api/v1/
 - **Admin Panel**: http://167.172.191.158:8000/admin/
+- **Admin Credentials**: `admin` / `admin123`
 - **API Docs**: http://167.172.191.158:8000/api/schema/swagger-ui/
 - **Status**: ✅ Running
 - **Framework**: Django 5.0.13 + DRF
@@ -26,6 +28,7 @@ Your REACTORS e-commerce platform is now running on DigitalOcean!
 - **Host**: aws-1-eu-central-1.pooler.supabase.com
 - **Status**: ✅ Connected
 - **Migrations**: ✅ Applied
+- **Admin User**: ✅ Created
 
 ---
 
