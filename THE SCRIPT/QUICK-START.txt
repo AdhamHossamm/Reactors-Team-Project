@@ -1,0 +1,62 @@
+================================================================================
+  Full Stack E-Commerce Project - QUICK START GUIDE
+================================================================================
+
+INSTALLATION (Choose ONE method):
+
+  1. EASIEST: Double-click "RUN-INSTALLER.bat"
+     (Handles everything automatically)
+
+  2. ALTERNATIVE: Right-click on PowerShell, select "Run as Administrator",
+     then run:
+     cd "D:\Hany Project\RP---e-Commerce-FS\THE SCRIPT"
+     .\install-project-dependencies.ps1
+
+
+WHAT GETS INSTALLED:
+  - Python 3.11+ and pip
+  - Node.js 18+ and npm
+  - Django 5.0.13 and all backend dependencies
+  - Next.js 15.1.3 and all frontend dependencies
+  - Database setup with test accounts
+
+
+AFTER INSTALLATION - RUN THE PROJECT:
+
+  Backend (Terminal 1):
+    cd backend
+    python manage.py runserver
+
+  Frontend (Terminal 2):
+    cd frontend
+    npm run dev
+
+
+ACCESS THE APPLICATION:
+  Frontend: http://localhost:3000
+  Backend API: http://localhost:8000
+  Admin Panel: http://localhost:8000/admin/
+
+
+TEST ACCOUNTS:
+  Admin:  admin@example.com / admin
+  Buyer:  buyer@example.com / buyer123
+  Seller: seller@example.com / seller123
+
+
+IF YOU ENCOUNTER PROBLEMS:
+  1. Check THE SCRIPT/install-log.txt for detailed logs
+  2. Read THE SCRIPT/README.md for troubleshooting
+  3. Run as Administrator if you get permission errors
+
+
+ESTIMATED INSTALLATION TIME:
+  - First time: 10-15 minutes (downloads packages)
+  - Subsequent runs: 2-3 minutes (if already installed)
+
+
+SUPPORT:
+  For detailed information, see: THE SCRIPT/README.md
+
+================================================================================
+

@@ -1,0 +1,118 @@
+====================================
+🎯 QUICK START GUIDE FOR FRIENDS
+====================================
+
+Easiest way to run this project - ZERO setup required!
+
+====================================
+WHAT YOU NEED
+====================================
+
+1. Windows 10 or 11
+2. Docker Desktop (free, download link below)
+3. This project folder
+
+That's it! No Python, Node.js, or anything else!
+
+====================================
+INSTALL DOCKER (ONE TIME)
+====================================
+
+1. Go to: https://www.docker.com/products/docker-desktop/
+
+2. Click "Download for Windows"
+
+3. Install it (click Next on everything)
+
+4. Restart your computer when asked
+
+5. Look for the 🐳 Docker icon in system tray (bottom right)
+
+6. Wait until icon is steady (not moving) = Ready!
+
+⏱️ Takes: 5 minutes
+
+====================================
+RUN THE PROJECT
+====================================
+
+1. Open this folder
+
+2. Double-click: START.bat
+
+3. Wait 2-3 minutes (first time only)
+
+4. Your browser opens automatically at: http://localhost:3000
+
+5. You're done! 🎉
+
+⏱️ Takes: 2 minutes
+
+====================================
+LOG IN
+====================================
+
+Use any of these test accounts:
+
+Admin (full access):
+  Email: admin@example.com
+  Password: admin
+
+Seller (sell products):
+  Email: seller@example.com
+  Password: seller123
+
+Buyer (shop):
+  Email: buyer@example.com
+  Password: buyer123
+
+====================================
+ACCESS POINTS
+====================================
+
+Main App:     http://localhost:3000
+Admin Panel:  http://localhost:8000/admin/
+API:          http://localhost:8000
+
+====================================
+STOP THE APP
+====================================
+
+Option 1: Close the window (Ctrl+C)
+
+Option 2: Double-click STOP.bat
+
+Your data is saved automatically!
+
+====================================
+START AGAIN LATER
+====================================
+
+Just double-click START.bat again
+
+Takes 10 seconds after first time
+
+====================================
+NEED HELP?
+====================================
+
+1. README-FOR-FRIEND.txt - Detailed guide
+
+2. INSTALL-GUIDE-FOR-FRIEND.md - Complete instructions
+
+3. Contact your friend who shared this
+
+====================================
+FILES EXPLAINED
+====================================
+
+START.bat           ← Double-click this to run!
+STOP.bat            ← Double-click to stop
+RESTART-FRESH.bat   ← Delete all and start fresh
+
+Ignore everything else - just use these files!
+
+====================================
+
+🎉 Enjoy! This is the easiest way to run a full-stack app!
+
